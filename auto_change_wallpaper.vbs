@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\Antonio\Dropbox\Antonio\IT\Programmieren\python\auto_change_wallpaper\auto_change_wallpaper.bat",0,True
