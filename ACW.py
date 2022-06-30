@@ -1,8 +1,8 @@
 import ctypes, os, random
 
-defaultDir = os.environ["USERPROFILE"] + "\\Dropbox\\Antonio\\Privat\\Bilder\\Background\\"
+defaultDir = os.environ["USERPROFILE"] + "\\"
 inDefaultDir = True
-subDir = ["minimalizm", "nasa", "off_white\\black", "razer", "space"]
+subDir = [""]
 allSubDir = False
 
 if inDefaultDir == True:
