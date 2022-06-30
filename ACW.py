@@ -1,6 +1,6 @@
 import ctypes, os, random
 
-defaultDir = os.environ["USERPROFILE"] + "\\"
+defaultDir = os.environ["USERPROFILE"] + "\\<images folder>"
 inDefaultDir = True
 subDir = [""]
 allSubDir = False
